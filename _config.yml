@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
+name: Vasyl Dizhak
+url: http://dizhak.com
+description: Fly with rocket and python
+twitter: rootart
+github: rootart
+gravatar_url: http://www.gravatar.com/avatar/22d0db2b9513a8b443f7777af14d0c3b.png
